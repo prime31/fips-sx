@@ -1,0 +1,3 @@
+[submodule "sx"]
+	path = sx
+	url = https://github.com/septag/sx
